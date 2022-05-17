@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Tarea1CSharp\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Tarea1CSharp\Ejercicio02\bin\Debug\Ejercicio02.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Tarea1CSharp\Ejercicio02\bin\Debug\Ejercicio02.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Tarea1CSharp\Ejercicio02\obj\Debug\Ejercicio02.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Tarea1CSharp\Ejercicio02\obj\Debug\Ejercicio02.pdb

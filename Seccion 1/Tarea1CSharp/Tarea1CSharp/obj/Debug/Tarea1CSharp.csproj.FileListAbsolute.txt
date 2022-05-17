@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Tarea1CSharp\Tarea1CSharp\bin\Debug\Tarea1CSharp.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Tarea1CSharp\Tarea1CSharp\bin\Debug\Tarea1CSharp.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Tarea1CSharp\Tarea1CSharp\bin\Debug\Tarea1CSharp.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Tarea1CSharp\Tarea1CSharp\obj\Debug\Tarea1CSharp.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Tarea1CSharp\Tarea1CSharp\obj\Debug\Tarea1CSharp.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Tarea1CSharp\Tarea1CSharp\obj\Debug\Tarea1CSharp.pdb
