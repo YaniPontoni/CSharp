@@ -1,0 +1,7 @@
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion2\Seccion2\bin\Debug\Seccion2.exe.config
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion2\Seccion2\bin\Debug\Seccion2.exe
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion2\Seccion2\bin\Debug\Seccion2.pdb
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.AssemblyReference.cache
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.CoreCompileInputs.cache
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion2\Seccion2\obj\Debug\Seccion2.exe
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion2\Seccion2\obj\Debug\Seccion2.pdb
