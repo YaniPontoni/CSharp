@@ -1,0 +1,14 @@
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\bin\Debug\netcoreapp3.1\Seccion8.exe
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\bin\Debug\netcoreapp3.1\Seccion8.deps.json
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\bin\Debug\netcoreapp3.1\Seccion8.runtimeconfig.json
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\bin\Debug\netcoreapp3.1\Seccion8.runtimeconfig.dev.json
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\bin\Debug\netcoreapp3.1\Seccion8.dll
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\bin\Debug\netcoreapp3.1\Seccion8.pdb
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\obj\Debug\netcoreapp3.1\Seccion8.csproj.AssemblyReference.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\obj\Debug\netcoreapp3.1\Seccion8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\obj\Debug\netcoreapp3.1\Seccion8.AssemblyInfoInputs.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\obj\Debug\netcoreapp3.1\Seccion8.AssemblyInfo.cs
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\obj\Debug\netcoreapp3.1\Seccion8.csproj.CoreCompileInputs.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\obj\Debug\netcoreapp3.1\Seccion8.dll
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\obj\Debug\netcoreapp3.1\Seccion8.pdb
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion8\Seccion8\obj\Debug\netcoreapp3.1\Seccion8.genruntimeconfig.cache
