@@ -1,0 +1,14 @@
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\netcoreapp3.1\ManejoDeArchivos.exe
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\netcoreapp3.1\ManejoDeArchivos.deps.json
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\netcoreapp3.1\ManejoDeArchivos.runtimeconfig.json
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\netcoreapp3.1\ManejoDeArchivos.runtimeconfig.dev.json
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\netcoreapp3.1\ManejoDeArchivos.dll
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\netcoreapp3.1\ManejoDeArchivos.pdb
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\netcoreapp3.1\ManejoDeArchivos.csproj.AssemblyReference.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\netcoreapp3.1\ManejoDeArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\netcoreapp3.1\ManejoDeArchivos.AssemblyInfoInputs.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\netcoreapp3.1\ManejoDeArchivos.AssemblyInfo.cs
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\netcoreapp3.1\ManejoDeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\netcoreapp3.1\ManejoDeArchivos.dll
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\netcoreapp3.1\ManejoDeArchivos.pdb
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion9\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\netcoreapp3.1\ManejoDeArchivos.genruntimeconfig.cache
