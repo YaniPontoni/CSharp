@@ -1,0 +1,14 @@
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\bin\Debug\netcoreapp3.1\CursoLinQ2019.exe
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\bin\Debug\netcoreapp3.1\CursoLinQ2019.deps.json
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\bin\Debug\netcoreapp3.1\CursoLinQ2019.runtimeconfig.json
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\bin\Debug\netcoreapp3.1\CursoLinQ2019.runtimeconfig.dev.json
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\bin\Debug\netcoreapp3.1\CursoLinQ2019.dll
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\bin\Debug\netcoreapp3.1\CursoLinQ2019.pdb
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\obj\Debug\netcoreapp3.1\CursoLinQ2019.csproj.AssemblyReference.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\obj\Debug\netcoreapp3.1\CursoLinQ2019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\obj\Debug\netcoreapp3.1\CursoLinQ2019.AssemblyInfoInputs.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\obj\Debug\netcoreapp3.1\CursoLinQ2019.AssemblyInfo.cs
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\obj\Debug\netcoreapp3.1\CursoLinQ2019.csproj.CoreCompileInputs.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\obj\Debug\netcoreapp3.1\CursoLinQ2019.dll
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\obj\Debug\netcoreapp3.1\CursoLinQ2019.pdb
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\CursoLinQ2019\obj\Debug\netcoreapp3.1\CursoLinQ2019.genruntimeconfig.cache
