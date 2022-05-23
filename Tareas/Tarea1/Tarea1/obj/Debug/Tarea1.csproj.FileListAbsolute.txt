@@ -1,0 +1,7 @@
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea1\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea1\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.AssemblyReference.cache
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea1\Tarea1\obj\Debug\Tarea1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea4\Tarea4\bin\Debug\Tarea4.exe.config
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea4\Tarea4\bin\Debug\Tarea4.exe
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea4\Tarea4\bin\Debug\Tarea4.pdb
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.AssemblyReference.cache
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.CoreCompileInputs.cache
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea4\Tarea4\obj\Debug\Tarea4.exe
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Tarea4\Tarea4\obj\Debug\Tarea4.pdb

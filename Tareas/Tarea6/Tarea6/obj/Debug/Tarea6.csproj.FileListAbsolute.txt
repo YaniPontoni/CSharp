@@ -1,0 +1,7 @@
+C:\Users\Yani\source\repos\Tarea6\Tarea6\obj\Debug\Tarea6.csproj.AssemblyReference.cache
+C:\Users\Yani\source\repos\Tarea6\Tarea6\obj\Debug\Tarea6.csproj.CoreCompileInputs.cache
+C:\Users\Yani\source\repos\Tarea6\Tarea6\bin\Debug\Tarea6.exe.config
+C:\Users\Yani\source\repos\Tarea6\Tarea6\bin\Debug\Tarea6.exe
+C:\Users\Yani\source\repos\Tarea6\Tarea6\bin\Debug\Tarea6.pdb
+C:\Users\Yani\source\repos\Tarea6\Tarea6\obj\Debug\Tarea6.exe
+C:\Users\Yani\source\repos\Tarea6\Tarea6\obj\Debug\Tarea6.pdb
