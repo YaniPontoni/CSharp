@@ -1,0 +1,14 @@
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\bin\Debug\netcoreapp3.1\Ejercicio6.exe
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\bin\Debug\netcoreapp3.1\Ejercicio6.deps.json
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\bin\Debug\netcoreapp3.1\Ejercicio6.runtimeconfig.json
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\bin\Debug\netcoreapp3.1\Ejercicio6.runtimeconfig.dev.json
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\bin\Debug\netcoreapp3.1\Ejercicio6.dll
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\bin\Debug\netcoreapp3.1\Ejercicio6.pdb
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\obj\Debug\netcoreapp3.1\Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\obj\Debug\netcoreapp3.1\Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\obj\Debug\netcoreapp3.1\Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\obj\Debug\netcoreapp3.1\Ejercicio6.AssemblyInfo.cs
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\obj\Debug\netcoreapp3.1\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\obj\Debug\netcoreapp3.1\Ejercicio6.dll
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\obj\Debug\netcoreapp3.1\Ejercicio6.pdb
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\CursoLinQ2019\Ejercicio6\obj\Debug\netcoreapp3.1\Ejercicio6.genruntimeconfig.cache
