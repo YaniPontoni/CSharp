@@ -1,0 +1,7 @@
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion4\Seccion4\bin\Debug\Seccion4.exe.config
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion4\Seccion4\bin\Debug\Seccion4.exe
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion4\Seccion4\bin\Debug\Seccion4.pdb
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion4\Seccion4\obj\Debug\Seccion4.csproj.AssemblyReference.cache
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion4\Seccion4\obj\Debug\Seccion4.csproj.CoreCompileInputs.cache
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion4\Seccion4\obj\Debug\Seccion4.exe
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\Seccion4\Seccion4\obj\Debug\Seccion4.pdb
