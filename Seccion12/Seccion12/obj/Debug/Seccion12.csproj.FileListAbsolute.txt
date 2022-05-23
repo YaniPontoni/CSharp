@@ -1,0 +1,17 @@
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\bin\Debug\Seccion12.exe.config
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\bin\Debug\Seccion12.exe
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\bin\Debug\Seccion12.pdb
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.csproj.AssemblyReference.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.Properties.Resources.resources
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.csproj.GenerateResource.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.csproj.CoreCompileInputs.cache
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.exe
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.pdb
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.ComboBox.resources
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.ListBox.resources
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.ListBoxDinamico.resources
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.DataGridView.resources
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.DataGridViewDinamico.resources
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.DataGridViewDataTable.resources
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.PictureBox.resources
+C:\Users\Yani\Documents\Cursos Udemy\C Sharp\Seccion12\Seccion12\obj\Debug\Seccion12.PictureBox2.resources
