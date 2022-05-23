@@ -1,0 +1,7 @@
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.exe.config
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.exe
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\MiPrimeraAplicacion\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.pdb
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.exe
+C:\Users\Yani\Documents\Proyectos Visual Studio 2019\MiPrimeraAplicacion\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.pdb
